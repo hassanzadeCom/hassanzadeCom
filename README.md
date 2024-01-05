@@ -7,8 +7,9 @@ Hello everybody . I'm Abolfazl Hassan Zade was born in May,2 2002 .  A fullstack
 ------------------------------------
 
 ### My Skills
-![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,python,cs,django,react,redux,git,github,sqlite,redis,postgres) 
-
+![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js) 
+![My Skills](https://skillicons.dev/icons?i=python,cs,django,react,redux) 
+![My Skills](https://skillicons.dev/icons?i=git,github,sqlite,redis,postgres) 
 </div>
 
 
